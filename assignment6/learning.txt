@@ -1,0 +1,2 @@
+In Python you can creat list and dictionary.
+In python you can define functions.
